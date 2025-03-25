@@ -1,0 +1,32 @@
+{"student": {
+    "photo": "assets/Jojo2.png",
+    "name": "Pantat Suwanwatthana",
+    "id": "6630250281",
+    "major": "Computer Science",
+    "previousSchool": "Saipanya Rangsit School"
+  },
+  "courses": [
+    { "id": 1, "code": "03751112", "name": "Social and Politics", "credits": 3, "grade": "C+" },
+    { "id": 2, "code": "01999021", "name": "Thai Language for Communication", "credits": 3, "grade": "B" },
+    { "id": 3, "code": "01418141", "name": "Intellectual Properties and Professional Ethics", "credits": 3, "grade": "B+" },
+    { "id": 4, "code": "01418111", "name": "Introduction to Computer Science", "credits": 2, "grade": "C" },
+    { "id": 5, "code": "01355101", "name": "English for Everyday Life", "credits": 0, "grade": "P" },
+    { "id": 6, "code": "01355102", "name": "English for University Life", "credits": 0, "grade": "P" },
+    { "id": 7, "code": "01355103", "name": "English for Job Opportunities", "credits": 3, "grade": "A" },
+    { "id": 8, "code": "01418112", "name": "Fundamental Programming Concepts", "credits": 3, "grade": "B+" },
+    { "id": 9, "code": "01417111", "name": "Calculus I", "credits": 3, "grade": "D" },
+    { "id": 10, "code": "01999111", "name": "Knowledge of the Land", "credits": 2, "grade": "A" },
+    { "id": 11, "code": "03654111", "name": "Aesthetics of Sport", "credits": 3, "grade": "A" },
+    { "id": 12, "code": "01418113", "name": "Computer Programming", "credits": 3, "grade": "B+" },
+    { "id": 13, "code": "01418131", "name": "Statistical Programming", "credits": 3, "grade": "B+" },
+    { "id": 14, "code": "01418132", "name": "Fundamentals of Computing", "credits": 3, "grade": "C+" },
+    { "id": 15, "code": "01999041", "name": "Economics for Better Living", "credits": 3, "grade": "C" },
+    { "id": 16, "code": "01417322", "name": "Basic Linear Algebra", "credits": 3, "grade": "A" },
+    { "id": 17, "code": "01175118", "name": "Chair Ball for Health", "credits": 1, "grade": "A" },
+    { "id": 18, "code": "01418233", "name": "Computer Architecture", "credits": 3, "grade": "B+" },
+    { "id": 19, "code": "01174231", "name": "Introduction to Recreation", "credits": 2, "grade": "B" },
+    { "id": 20, "code": "01999012", "name": "Health for Life", "credits": 3, "grade": "A" },
+    { "id": 21, "code": "01418211", "name": "Software Construction", "credits": 3, "grade": "C+" },
+    { "id": 22, "code": "01418231", "name": "Data Structures and Algorithms", "credits": 3, "grade": "B+" },
+    { "id": 23, "code": "01418361", "name": "Introduction to Computer Vision", "credits": 3, "grade": "A" }
+  ]}
